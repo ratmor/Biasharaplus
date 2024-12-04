@@ -24,3 +24,21 @@ def blog(request):
 
 def details(request):
     return render(request, 'blog-details.html')
+
+def services(request):
+    return render(request, 'featured services.html')
+
+def about(request):
+    return render(request, 'about.html')
+
+def pricing(request):
+    return render(request, 'pricing.html')
+
+def portfolio(request):
+    return render(request, 'portfolio.html')
+
+def spotlight(request):
+    return render(request, 'spotlight.html')
+
+def contact(request):
+    return render(request, 'contact.html')

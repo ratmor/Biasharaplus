@@ -4,24 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71f1bf84-6bdf-4928-90cb-8332ea270e64" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Template/featured services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biasharaplusapp/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biasharaplusapp/static/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biasharaplusapp/static/js/scripts.js" beforeDir="false" />
+    <list default="true" id="71f1bf84-6bdf-4928-90cb-8332ea270e64" name="Changes" comment="updates">
+      <change afterPath="$PROJECT_DIR$/Template/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/portfolio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/pricing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/spotlight.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Biasharaplusapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Biasharaplusapp/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Biasharaplusapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Biasharaplusapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template/blog-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/Template/blog-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/Template/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template/featured services.html" beforeDir="false" afterPath="$PROJECT_DIR$/Template/featured services.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Template/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Template/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Template/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Template/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/Template/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template/portfolio-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/Template/portfolio-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template/service-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/Template/service-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template/starter-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/Template/starter-page.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -117,10 +123,36 @@
       <workItem from="1733260182042" duration="1720000" />
       <workItem from="1733262294741" duration="280000" />
       <workItem from="1733262602307" duration="192000" />
+      <workItem from="1733262819298" duration="4498000" />
+      <workItem from="1733331296920" duration="5267000" />
     </task>
+    <task id="LOCAL-00001" summary="updates">
+      <option name="closed" value="true" />
+      <created>1733263454926</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733263454926</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Biasharaplusapp/views.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
