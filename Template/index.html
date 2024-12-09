@@ -52,6 +52,7 @@
       <nav id="navmenu" class="navmenu">
         <ul>
           <li><a href="{% url 'index' %}" class="active">Home<br></a></li>
+          <li><a href="{% url 'featured services' %}" class="active">Featured Services<br></a></li>
           <li><a href="{% url 'about' %}">About</a></li>
           <li><a href="{% url 'service-details' %}">Services</a></li>
           <li><a href="{% url 'portfolio' %}">Portfolio</a></li>
@@ -96,7 +97,7 @@
           <div class="col-lg-8 col-md-6 content d-flex flex-column justify-content-center order-last order-md-first">
             <h3>START DREAMING YOUR DIGITAL FUTURE TODAY.SIGN UP NOW! </h3>
             <p>Don't just dream it, do it. Take the first step,contact us now.</p>
-            <a class="cta-btn align-self-start" href="#">Call To Action</a>
+            <a class="cta-btn align-self-start" href="contact.html">Call To Action</a>
           </div>
 
           <div class="col-lg-4 col-md-6 order-first order-md-last d-flex align-items-center">
@@ -130,7 +131,7 @@
                 <li><i class="bi bi-check-circle"></i> Trust - Building a strong relationships based on honesty and transparency.</li>
                 <li><i class="bi bi-check-circle"></i> Community - Fostering a supportive and inclusive environment.</li>
               </ul>
-              <a href="#" class="read-more align-self-start"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+              <a href="about.html" class="read-more align-self-start"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -379,19 +380,6 @@
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="300">
-            <div class="service-item">
-              <div class="img">
-                <img src="{% static 'assets/img/services-2.jpg' %}" class="img-fluid" alt="">
-              </div>
-                <div class="details position-relative">
-                    <i class="bi bi-broadcast"></i>
-                </div>
-                <a href="service-details.html" class="stretched-link">
-                    <h3>Connection</h3>
-                    <p>We aim to bridge the gap between service providers/sellers and service seekers/buyers.</p>
-            </div>
-          </div><!-- End Service Item -->
 
 
           <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="600">
@@ -407,7 +395,7 @@
                   <h3>Scheduled booking and reviews </h3>
                 </a>
                 <p>Get to connect with your prefered customers by adding your contacts and reviews for service providers.</p>
-                <a href="service-details.html" class="stretched-link"></a>
+                <a href="{% url 'service-details' %}" class="stretched-link">Learn more</a>
               </div>
             </div>
           </div><!-- End Service Item -->

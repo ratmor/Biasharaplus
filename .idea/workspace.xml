@@ -6,11 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="71f1bf84-6bdf-4928-90cb-8332ea270e64" name="Changes" comment="updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Template/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Template/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biasharaplusapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Biasharaplusapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template/featured services.html" beforeDir="false" afterPath="$PROJECT_DIR$/Template/featured services.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Template/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Template/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/Template/portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Template/starter-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/Template/starter-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template/service-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/Template/service-details.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,22 +53,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/JOSECK/OneDrive/Desktop/Biasharaplus/static/images",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.pycharm.django.structure.promotion.once.per.project&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/JOSECK/OneDrive/Desktop/Biasharaplus/static/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\JOSECK\OneDrive\Desktop\Biasharaplus\static\images" />
@@ -125,7 +124,9 @@
       <workItem from="1733356247427" duration="1373000" />
       <workItem from="1733383251699" duration="12976000" />
       <workItem from="1733508547822" duration="11075000" />
-      <workItem from="1733522717782" duration="9889000" />
+      <workItem from="1733522717782" duration="10520000" />
+      <workItem from="1733672919803" duration="3129000" />
+      <workItem from="1733734274153" duration="2034000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <option name="closed" value="true" />
@@ -159,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733554857689</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updates">
+      <option name="closed" value="true" />
+      <created>1733562887530</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733562887530</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
