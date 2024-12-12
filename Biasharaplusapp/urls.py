@@ -7,19 +7,15 @@ from django.urls import path
 from Biasharaplusapp import views
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
+   
     path('home/',views.home),
-    path('login/',views.login,name='login'),
-    path('register/',views.register,name='register'),
-    path('index/',views.index,name='index'),
-    path('starter-page/',views.starter,name='starter-page'),
-    path('service-details/',views.service,name='service-details'),
+    path('login/',views.login_views,name='login'),
+    path('register/',views.register_views,name='register'),
+    path('',views.index,name='index'),
+    path('layout/',views.layout,name='layout'), # type: ignore
+    path('service-details/',views.service_details,name='service-details'), # type: ignore
+    path('portfolio-details/',views.portfolio_details,name='portfolio-details'), # type: ignore
     path('blog/',views.blog,name='blog'),
-    path('blog-details/',views.details,name='blog-details'),
-    path('featured services/',views.services,name='featured services'),
-    path('pricing/',views.pricing,name='pricing'),
-    path('about/',views.about,name='about'),
-    path('portfolio/',views.portfolio,name='portfolio'),
-    path('spotlight/',views.spotlight,name='spotlight'),
-    path('contact/',views.contact,name='contact'),
+    path('blog-details/',views.blog_details,name='blog-details'),# type: ignore
+    path('upload_image/',views.upload_image,name='upload_image'),
 ]

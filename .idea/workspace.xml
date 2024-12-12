@@ -6,10 +6,19 @@
   <component name="ChangeListManager">
     <list default="true" id="71f1bf84-6bdf-4928-90cb-8332ea270e64" name="Changes" comment="updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biasharaplus/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Biasharaplus/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biasharaplus/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Biasharaplus/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biasharaplusapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Biasharaplusapp/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Biasharaplusapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Biasharaplusapp/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Template/featured services.html" beforeDir="false" afterPath="$PROJECT_DIR$/Template/featured services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biasharaplusapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Biasharaplusapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biasharaplusapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Biasharaplusapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/Template/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template/blog-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/Template/blog-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/Template/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Template/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Template/service-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/Template/service-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template/starter-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/js/main.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +82,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\JOSECK\OneDrive\Desktop\Biasharaplus\static\images" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JOSECK\OneDrive\Desktop\Biasharaplus\static" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Biasharaplus" type="Python.DjangoServer" factoryName="Django server">
@@ -126,7 +138,8 @@
       <workItem from="1733508547822" duration="11075000" />
       <workItem from="1733522717782" duration="10520000" />
       <workItem from="1733672919803" duration="3129000" />
-      <workItem from="1733734274153" duration="2034000" />
+      <workItem from="1733734274153" duration="3394000" />
+      <workItem from="1733990123237" duration="2232000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <option name="closed" value="true" />
@@ -168,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733562887530</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="updates">
+      <option name="closed" value="true" />
+      <created>1733736562888</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733736562888</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

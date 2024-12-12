@@ -4,41 +4,29 @@ from django.shortcuts import render
 def home(request):
     return render(request,'index.html')
 
-def login(request):
+def login_views(request):
     return render(request,'login.html')
 
-def register(request):
+def register_views(request):
     return render(request, 'register.html')
 
-def index(request):
-    return render(request, 'index.html')
-
-def service(request):
-    return render(request, 'service-details.html')
-
-def starter(request):
-    return render(request, 'starter-page.html')
+def blog_details(request):
+    return render(request, 'blog-details.html')
 
 def blog(request):
     return render(request, 'blog.html')
 
-def details(request):
-    return render(request, 'blog-details.html')
+def index(request):
+    return render(request, 'index.html')
 
-def services(request):
-    return render(request, 'featured services.html')
+def portfolio_details(request):
+    return render(request, 'portfolio-details.html')
 
-def about(request):
-    return render(request, 'about.html')
+def service_details(request):
+    return render(request, 'service-details.html')
 
-def pricing(request):
-    return render(request, 'pricing.html')
+def layout(request):
+    return render(request, 'layout.html')
 
-def portfolio(request):
-    return render(request, 'portfolio.html')
-
-def spotlight(request):
-    return render(request, 'spotlight.html')
-
-def contact(request):
-    return render(request, 'contact.html')
+def upload_image(request):
+    return render(request, 'upload_image.html')
