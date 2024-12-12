@@ -18,4 +18,8 @@ urlpatterns = [
     path('blog/',views.blog,name='blog'),
     path('blog-details/',views.blog_details,name='blog-details'),# type: ignore
     path('upload_image/',views.upload_image,name='upload_image'),
+    path('payment/',views.Payment,name='payment'),
+    path('stk/',views.stk,name='stk'),
+    path('sendcontact/',views.contact,name='sendcontact'),
+    path('contact/',views.insertcontact,name='contact'),
 ]
